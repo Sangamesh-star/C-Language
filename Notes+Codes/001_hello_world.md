@@ -1,4 +1,4 @@
-# The first program of the C-Programming world😊
+## The first program of the C-Programming world😊
 
 #### Writing the first program: 
 
@@ -18,7 +18,7 @@ int main()
 ```
 
 
-##Ex:02
+## Ex:02
 
 ```c
 
