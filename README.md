@@ -1,4 +1,4 @@
-# 💻 C Language
+# 💻 𝗖 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 :
 
 ## 📘 Introduction
 This repository is a complete collection of beginner-friendly **C Language Notes + Code Files** and **Projects**. It includes fundamental topics and practical code examples, ideal for students starting with procedural programming and system-level development.
